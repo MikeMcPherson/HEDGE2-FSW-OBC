@@ -17,3 +17,5 @@ fprime_setup_included_code()
 
 # This includes project-wide objects
 add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/Hedge2FswObc")
+add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/Subtopologies/Gnss/")
+add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/Subtopologies/Inaxxx/")
